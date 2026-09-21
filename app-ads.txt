@@ -152,8 +152,3 @@ themediagrid.com, FALINO, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
 undertone.com, 4108, RESELLER
 voisetech.com, 1066, RESELLER
-xandr.com, 13799, RESELLER
-xandr.com, 17779, RESELLER
-xandr.com, 7353, RESELLER
-zetaglobal.net, 525, RESELLER
-zmaticoo.com, 5135195, RESELLER
