@@ -159,4 +159,6 @@ xandr.com, 7353, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
 smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+start.io, 131192070, RESELLER
+monetrix.ai, 10761, RESELLER
 
